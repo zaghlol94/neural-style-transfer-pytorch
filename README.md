@@ -31,3 +31,23 @@ python nst.py -o "original image path" -s "style image path"
   <img src="cat_generated2.png" width="140" />
 </p>
 
+## Citation 
+```commandline
+@misc{https://doi.org/10.48550/arxiv.1508.06576,
+  doi = {10.48550/ARXIV.1508.06576},
+  
+  url = {https://arxiv.org/abs/1508.06576},
+  
+  author = {Gatys, Leon A. and Ecker, Alexander S. and Bethge, Matthias},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Neural and Evolutionary Computing (cs.NE), Neurons and Cognition (q-bio.NC), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Biological sciences, FOS: Biological sciences},
+  
+  title = {A Neural Algorithm of Artistic Style},
+  
+  publisher = {arXiv},
+  
+  year = {2015},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
